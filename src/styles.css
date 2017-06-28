@@ -10,8 +10,7 @@ h1 {
   background: linear-gradient(
       rgba(0, 0, 255, 0.45),
       rgba(0, 0, 255, 0.45)
-    ),
-    url('assets/scotch-dog1.jpg') center / cover;
+    );
   height: 400px;
 }
 
@@ -34,3 +33,5 @@ h1 {
   width: 80%;
   margin: 0 auto;
 }
+
+/* END SCOTCH STYLES */
